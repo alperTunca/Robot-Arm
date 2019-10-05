@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/ll_language"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/customborder"
+    android:gravity="center"
+    android:layout_gravity="center"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_lang"
+        android:textSize="7pt"
+        android:textColor="@color/colorBlack"
+        />
+
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+
+        <ImageButton
+            android:id="@+id/btn_tr"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/flag_turk"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="15dp"/>
+
+        <ImageButton
+            android:id="@+id/btn_eng"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/flag_eng"
+            android:layout_marginRight="15dp"/>
+    </LinearLayout>
+</LinearLayout>

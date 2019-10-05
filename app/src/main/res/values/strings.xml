@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Robot Arm</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_string">This APP; similar to the picture allows\n
+                                the robot arms to move with the help of bluetooth\n
+                                Github: alperTunca\n
+                                Email: atunca51@hotmail.com\n</string>
+    <color name="bg">#C0C0C0</color>
+
+    <string name="scan">Scanning…</string>
+    <string name="scan_finish">Scan Finished !</string>
+    <string name="paired">Paired !</string>
+    <string name="error">"Error: "</string>
+    <string name="pairing">Pairing !</string>
+    <string name="data_process">Processing Data…</string>
+    <string name="clear_feedback">Clear Feedback</string>
+    <string name="clear_info_toast">Information page cleared.</string>
+    <string name="connect_wait">Waiting for Connection…</string>
+    <string name="data_wait">Waiting for Data.</string>
+    <string name="connect">Connecting…</string>
+    <string name="info_btn">Buttons Inactive Until Connection Completed.</string>
+    <string name="bluetooth_on">Turn on Bluetooth.</string>
+    <string name="clamp_off">Clamp closing</string>
+    <string name="clamp_on">Clamp Opening</string>
+    <string name="turn_left">Left turn active</string>
+    <string name="turn_right">Right turn active</string>
+    <string name="move_up">Up motion active</string>
+    <string name="move_down">Down motion active</string>
+    <string name="move_backward">Backward motion active</string>
+    <string name="move_forward">Forward motion active</string>
+    <string name="retrying">Retrying…</string>
+    <string name="disconnect">Disconnected !</string>
+    <string name="reconnect">Reconnecting…</string>
+    <string name="btn_inactive">Buttons Inactive</string>
+    <string name="connect_device">Connected device :</string>
+    <string name="back_btn">Back</string>
+    <string name="down_btn">Down</string>
+    <string name="forward_btn">Forward</string>
+    <string name="left_btn">Left</string>
+    <string name="right_btn">Right</string>
+    <string name="up_btn">Up</string>
+    <string name="clamp_on_btn">Clamp On</string>
+    <string name="clamp_off_btn">Clamp Off</string>
+    <string name="okey">Okey</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_lang">Choose Language</string>
+    <string name="close_connect">Close Connection</string>
+    <string name="about">About</string>
+    <string name="change_lang">Your langugage is English</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="battery_health">"Battery Health  :  "</string>
+</resources>
